@@ -11,5 +11,5 @@ npm start
 ```
 compile and generate the static webpage in folder "dist"
 ```bash
-npm build
+npm run build
 ```
